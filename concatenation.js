@@ -1,7 +1,7 @@
 /*
     Concatenação é um termo usado em computação para designar a operação de unir o conteúdo de duas strings. 
     Por exemplo, considerando as strings "casa" e "mento" a concatenação da primeira com a segunda gera a string "casamento".
-    Source: https://pt.wikipedia.org/wiki/Concatena%C3%A7%C3%A3o
+    Source: https://pt.wikipedia.org/wiki/Concatena%C3%A7%C3%A3o   
 */
 
 var nome = 'João';
