@@ -1,5 +1,5 @@
 /*
-    Vamos utilizar a função prompt do JS para capturar o valor e mostrar na página do seu navegador
+    Vamos utilizar a função prompt para capturar o valor inserido pelo usuário
 */
 
 var nome = prompt('Digite seu nome');
