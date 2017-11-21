@@ -1,5 +1,7 @@
 /*
-    Seu comentário aqui 
+    Seu comentário com mais de uma linha
+    Seu comentário com mais de uma linha
+    Seu comentário com mais de uma linha
 */
 
 var notaProva1 = 7;
