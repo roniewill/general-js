@@ -33,3 +33,5 @@ var ListaCompras = Array('Arroz', 'Feijão', 'Macarrão', 'Farinha', 'Ovos');
 // Da forma como declaramos o nosso array acima, o o indice onde esta o valor do 'Arroz' agora é 0
 document.write(lista_compras[0]);
 document.write(ListaCompras[2]); // Seguindo a mesma lógica que o indice comece me 0, então o valor do indice 2 será 'Macarrão' 
+
+// Você pode testar esse código em: https://jsfiddle.net/
