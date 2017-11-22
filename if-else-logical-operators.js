@@ -20,3 +20,5 @@ if(nota >= media && faults <= maxFaults){
 } else {
     document.write('Disapproved');
 }
+
+// you can test this code in: https://jsfiddle.net/
