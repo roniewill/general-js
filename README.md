@@ -1,2 +1,2 @@
 # general-js
-Only content JS for study
+Only content JS for study and experiments
