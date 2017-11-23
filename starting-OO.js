@@ -43,7 +43,7 @@ class Home{ // class name
         );
     }
 
-    walk(type){
+    walk(type){ // we can use parameters in the class methods
         document.write('Walk ' + type);
     }
 
