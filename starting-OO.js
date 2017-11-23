@@ -51,11 +51,21 @@ class Home{ // class name
         document.write('Run ' + type);
     }
 
+    /*
+        in static methods, you do not need to instantiate an object to access this method
+        we can directly access the class
+    */
+    static speak(){
+        document.write("you're speaking");
+    }
+
  }
 
  var newPerson = new Person('William', 30, 1.78, 115, 'Black');
  newPerson.getPersonInfo();
  document.write('<br>');
  newPerson.walk('fast');
+
+ Person.speak(); //accessing static method
 
  // you can test this code in: https://jsfiddle.net/
