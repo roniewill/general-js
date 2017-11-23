@@ -74,6 +74,50 @@
         Operator: x-- or --x
 */
 
+/*
+    Now let's write code!!!
+*/
+
+// Addition (+)
+var num1 = 2;
+var num2 = 4;
+document.write('Result: ' + (num1+num2) + '<br>');
+
+// Subtraction (-)
+var num1 = 10;
+var num2 = 6;
+document.write('Result: ' + (num1-num2) + '<br>');
+
+// Subtraction (/)
+var num1 = 10;
+var num2 = 5;
+document.write('Result: ' + (num1/num2) + '<br>');
+
+//  Multiplication (*)
+var num1 = 2;
+var num2 = 5;
+document.write('Result: ' + (num1*num2) + '<br>');
+
+//  Remainder (%)
+var num1 = 12;
+var num2 = 5;
+document.write('Result: ' + (num1%num2) + '<br>');
+
+//  Exponentiation (**)
+var num1 = 3;
+var num2 = 3;
+document.write('Result: ' + (num1**num2) + '<br>');
+
+// Increment (++)
+var num1 = 12;
+num1++;
+document.write('Result: ' + (num1) + '<br>');
+
+// Increment (--)
+var num1 = 12;
+num1--;
+document.write('Result: ' + (num1) + '<br>');
+
 
 
 // you can test this code in: https://jsfiddle.net/
